@@ -1,4 +1,4 @@
-# bioactivity-prediction-app
+# Alzheimer's  Drug Discovery Prediction Application
 
 <!-- # Watch the tutorial video
 
